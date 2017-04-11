@@ -1,0 +1,27 @@
+{
+  "name": "starwar-names",
+  "version": "1.0.0",
+  "description": "get random star wars",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurricanew/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Lucas Wang <hurricanew@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hurricanew/starwars-names/issues"
+  },
+  "homepage": "https://github.com/hurricanew/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
