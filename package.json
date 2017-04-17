@@ -28,6 +28,7 @@
     "unique-random-array": "1.0.0"
   },
   "devDependencies": {
+    "babel-cli": "6.24.1",
     "chai": "3.5.0",
     "commitizen": "2.9.6",
     "cz-conventional-changelog": "2.0.0",
@@ -36,6 +37,5 @@
   },
   "czConfig": {
     "path": "node_modules/cz-conventional-changelog"
-
   }
 }
