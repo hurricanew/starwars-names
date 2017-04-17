@@ -19,6 +19,13 @@ describe('starwars-name', () => {
         })
 
     });
+    describe('it should return an array of names given a number',()=>{
+        it('should return an random item of strings', () => {
+            const randomeItems = starwars.random(3);
+            expect(randomeItems).to.have.length(3);
+        })
+
+    });
     function isArrayOfStrings(array){
         return array.every((item)=>{
             return typeof item === 'string';
