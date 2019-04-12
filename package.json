@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/hurricanew/starwars-names#readme",
   "dependencies": {
-    "unique-random-array": "1.0.1"
+    "unique-random-array": "2.0.0"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
